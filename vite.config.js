@@ -1,5 +1,6 @@
 import { defineConfig } from 'vite';
 import vue from '@vitejs/plugin-vue';
+import TicTacToe from '@/views/TicTacToe.vue';
 
 export default defineConfig({
   plugins: [vue()],
