@@ -1,6 +1,6 @@
 import { createRouter, createWebHistory } from 'vue-router';
 import Home from '../views/Home.vue';
-import TicTacToe from '../views/TicTacToe.vue';
+import TicTacToe from './views/TicTacToe.vue';
 import SnakeAndLadder from "../views/SnakeAndLadder.vue"; // بررسی مسیر دقیق
 import Puzzle from "../views/Puzzle.vue";
 import Tetris from "../views/Tetris.vue";
